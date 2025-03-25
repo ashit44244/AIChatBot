@@ -18,3 +18,9 @@ streamlit
 mistral_inference
 psycopg2
 sqlalchemy
+datasets
+accelerate
+bitsandbytes
+peft
+wget
+huggingface_hub
