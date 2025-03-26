@@ -24,3 +24,7 @@ bitsandbytes
 peft
 wget
 huggingface_hub
+FastAPI
+uvicorn
+asyncpg
+psycopg2-binary
