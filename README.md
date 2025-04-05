@@ -21,8 +21,15 @@ for incident api :
 table: incident_table.sql
 python -m uvicorn server:app --reload
 
+
+python -m uvicorn server:app --host 0.0.0.0 --port 8000 --reload
+
 API:
 http://127.0.0.1:8000/records
+
+
+Model download path:
+C:\Users\ashit\.cache
 
 http://127.0.0.1:8000/docs (Swagger UI)
 http://127.0.0.1:8000/redoc (Redoc UI)

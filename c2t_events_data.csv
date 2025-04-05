@@ -1,0 +1,31 @@
+User_ID,Timestamp,Event_Type,Field_Name,Time_Spent (ms),Error_Message,Button_Clicked,Page_Name,Navigation_Pattern,Form_Completed
+U1001,2025-04-01 12:30:45,Click,EIN,,Next,Registration,Step 1 → Step 2,No
+U1002,2025-04-01 12:32:10,Click,Entity Type,,None,Checkout,Step 2 → Step 3,No
+U1003,2025-04-01 12:33:25,Click,Business Description,,Submit,Payment,Step 3 → Step 4,No
+U1004,2025-04-01 12:35:05,Click,Business Legal Name,,Submit,Confirmation,Step 4 → Step 5,Yes
+U1005,2025-04-01 12:36:15,Click,Business Address,,None,Checkout,Step 2 → Step 3,No
+U1006,2025-04-01 12:38:30,Display,Prohibited Industry,,None,Payment,Step 3 → Step 4,No
+U1007,2025-04-01 12:40:50,Display,Use of Proceeds,,None,Registration,Step 1 → Step 2,No
+U1008,2025-04-01 12:42:20,Display,EIN,,None,Checkout,Step 3 → Step 2,No
+U1009,2025-04-01 12:44:10,Timeout,Entity Type,,None,Confirmation,Step 4 → Step 5,Yes
+U1010,2025-04-01 12:45:35,Timeout,Business Description,,None,Registration,Step 1 → Step 2,No
+U1011,2025-04-01 12:47:00,Click,Business Legal Name,,Back,Payment,Step 3 → Step 2,No
+U1012,2025-04-01 12:48:30,Click,Business Address,,Next,Registration,Step 1 → Step 2,No
+U1013,2025-04-01 12:49:45,Click,Prohibited Industry,,None,Checkout,Step 2 → Step 3,No
+U1014,2025-04-01 12:51:10,Display,Use of Proceeds,,None,Confirmation,Step 4 → Step 5,Yes
+U1015,2025-04-01 12:52:25,Display,EIN,,None,Registration,Step 1 → Step 2,No
+U1016,2025-04-01 12:53:50,Timeout,Entity Type,,None,Checkout,Step 3 → Step 2,No
+U1017,2025-04-01 12:55:15,Timeout,Business Description,,None,Payment,Step 3 → Step 4,No
+U1018,2025-04-01 12:56:40,Click,Business Legal Name,,Submit,Confirmation,Step 4 → Step 5,Yes
+U1019,2025-04-01 12:58:05,Click,Business Address,,Next,Registration,Step 1 → Step 2,No
+U1020,2025-04-01 12:59:30,Click,Prohibited Industry,,Back,Checkout,Step 2 → Step 1,No
+U1021,2025-04-01 13:00:55,Display,Use of Proceeds,,None,Payment,Step 3 → Step 4,No
+U1022,2025-04-01 13:02:20,Display,EIN,,None,Checkout,Step 2 → Step 3,No
+U1023,2025-04-01 13:03:45,Timeout,Entity Type,,None,Registration,Step 1 → Step 2,No
+U1024,2025-04-01 13:05:10,Timeout,Business Description,,None,Payment,Step 3 → Step 4,No
+U1025,2025-04-01 13:06:35,Click,Business Legal Name,,Submit,Confirmation,Step 4 → Step 5,Yes
+U1026,2025-04-01 13:08:00,Click,Business Address,,Next,Registration,Step 1 → Step 2,No
+U1027,2025-04-01 13:09:25,Click,Prohibited Industry,,None,Checkout,Step 2 → Step 3,No
+U1028,2025-04-01 13:10:50,Display,Use of Proceeds,,None,Confirmation,Step 4 → Step 5,Yes
+U1029,2025-04-01 13:12:15,Display,EIN,,None,Registration,Step 1 → Step 2,No
+U1030,2025-04-01 13:13:40,Timeout,Entity Type,,None,Checkout,Step 3 → Step 2,No
